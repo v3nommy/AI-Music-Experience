@@ -12,7 +12,7 @@ This document is designed to be:
 ## 1) Brief summary: What we’re doing and why it works
 
 ### 1.1 Goal
-We want an AI (like Flux) to “listen” to a song **using math and structure**, not vague prose.
+We want an AI to “listen” to a song **using math and structure**, not vague prose.
 
 Text models cannot directly perceive sound unless they have audio input capabilities. But they **can** simulate an auditory experience if we provide a **time-evolving, multi-channel abstraction** of the audio.
 
